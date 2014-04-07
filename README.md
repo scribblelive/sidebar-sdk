@@ -2,7 +2,7 @@ sidebar-sdk
 ===========
 ####ScribbleLive Iframe Sidebar implementation instructions.
 
-  * Create a page which returns a page with HTML structure shown in the example HTML page (in the *Downloads* section). This page will be shown in an iframe in the right side bar of an event. This page can be preceded by any login and/or search functionality.  *IMPORTANT:* The page needs to be secure, ie. hosted on HTTPS, since web browsers will not allow non secure content to be loaded from our secure site.
+  * Create a page which returns a page with HTML structure shown in the example HTML page (sample.html). This page will be shown in an iframe in the right side bar of an event. This page can be preceded by any login and/or search functionality.  *IMPORTANT:* The page needs to be secure, ie. hosted on HTTPS, since web browsers will not allow non secure content to be loaded from our secure site.
   * Example:
 
 Below is the HTML code for an item of the list.
