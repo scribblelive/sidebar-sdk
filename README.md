@@ -49,7 +49,7 @@ See sample file for full code.
   * Click 'Send to Moderation' near your content item to add the content to the Moderation Hub
   * Click 'Send to RTE' near your content item to add the content to the Rich Text Editor.
   
-  - Note: 'Send to Moderation' and 'Send to RTE' options are only supported in Content Studio, not in the Standard interface.
+  Note: 'Send to Moderation' and 'Send to RTE' options are only supported in Content Studio, not in the Standard interface.
 
 <img src="http://s3.amazonaws.com/customerfiles.scribblelive.com/sidebarsdk/2017/Content_Studio_Sidebar_SDK_Approve.png"/>
 <img src="http://s3.amazonaws.com/customerfiles.scribblelive.com/sidebarsdk/2017/Content_Studio_Sidebar_SDK_ModHub.png"/>
