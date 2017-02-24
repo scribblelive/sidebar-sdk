@@ -11,7 +11,6 @@ data-author and data-avatar are optional and are used to specify the name and th
 When the item is approved into ScribbleLive that name and avatar are used for the author details.
 
 To set the author information when the item is dragged in use the tags in the "Meta" span.
-- Note: Dragging of content items is only supported in the Standard interface.
 
 See sample file for full code. 
 
